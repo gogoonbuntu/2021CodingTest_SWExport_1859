@@ -1,3 +1,5 @@
+# https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc
+
 N = int(input())
 print("N",N)
 PROFIT = 0
